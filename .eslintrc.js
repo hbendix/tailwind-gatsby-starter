@@ -45,6 +45,7 @@ module.exports = {
 			  "variableDeclarationIgnoreFunction": true
 			}
 		],
+		"max-len": "off"
 	},
 	settings: {
 		'import/resolver': {

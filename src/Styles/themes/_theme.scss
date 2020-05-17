@@ -1,6 +1,6 @@
 html {
 	font-size: 14px;
-	color: $BaseText;
+	color: $DarkText;
 }
 
 * {
@@ -28,4 +28,8 @@ html {
 
 .accent-bg-colour {
 	background-color: $RepetitioRed;
+}
+
+.home {
+	color: $BaseText;
 }
