@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import 'abstracts/variables';
+@import 'themes/theme';
+
+.react-toast-notifications__container {
+	scrollbar-width: none;
+}
